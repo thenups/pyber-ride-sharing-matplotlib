@@ -6,8 +6,6 @@
 - While to most demand for rides was in Urban cities, the average number of rides given per driver was ~0.6, whereas  Suburban drivers averaged 72% more rides (~1.03) and Rural drivers got twice the amount (~1.2).
 - Rural drivers made 2.7 times more on average than urban drivers, and suburban drivers made 2 times urban drivers.
 
-## Bubble Plot for Ride Sharing Data
-
 
 ```python
 # Dependencies and Setup
@@ -61,7 +59,7 @@ mergedDF.head()
 
 
 <div>
-<!-- <style>
+<style>
     .dataframe thead tr:only-child th {
         text-align: right;
     }
@@ -73,7 +71,7 @@ mergedDF.head()
     .dataframe tbody tr th {
         vertical-align: top;
     }
-</style> -->
+</style>
 
 <table border="1" class="dataframe">
   <thead>
@@ -138,7 +136,7 @@ mergedDF.head()
 </div>
 
 
-
+## Bubble Plot for Ride Sharing Data
 
 ```python
 # Group values by type of city
